@@ -1,0 +1,23 @@
+{
+  "name": "simpleDiscordBot",
+  "version": "1.0.0",
+  "description": "Repository for learning and building an evolving discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wrightcameron/simpleDiscordBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wrightcameron/simpleDiscordBot/issues"
+  },
+  "homepage": "https://github.com/wrightcameron/simpleDiscordBot#readme",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
